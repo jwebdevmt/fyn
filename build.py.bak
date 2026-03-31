@@ -1,0 +1,4 @@
+REPO_ROOT =
+Path(__file__).().parent
+OUTPUT_DIR = REPO_ROOT / "docs"
+CONFIG_PATH = REPO_ROOT / "config.json"
