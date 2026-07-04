@@ -1,0 +1,62 @@
+{
+  "site": {
+    "title": "Amur Tiger SSP Resources",
+    "description": "For people working on or following Amur tiger conservation across AZA institutions.",
+    "theme": "dark"
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "title": "Home",
+      "intro": "A door for the Amur tiger conservation community.",
+      "body": [
+        "Amur tigers are the largest wild cats on earth. There are fewer than 500 left in the wild. The Species Survival Plan coordinates breeding, care, and conservation efforts across accredited zoos and aquariums in North America. This site is for people already working in that space \u2014 keepers, curators, researchers, volunteers, and the people who follow this work closely enough to care about the details. It does not replace the SSP listserv, your institution's internal resources, or the relationships you already have. It points toward them."
+      ]
+    },
+    {
+      "slug": "links",
+      "title": "Where People Should Go",
+      "intro": "Creator-defined places and resources.",
+      "body": [
+        "These places are chosen by the site creator. FYN does not maintain a directory or infer relationships between communities."
+      ],
+      "link_groups": [
+        {
+          "title": "Places to go next",
+          "links": [
+            {
+              "label": "AZA Species Survival Plan Program",
+              "url": "https://www.aza.org/species-survival-plan-programs",
+              "description": "The SSP program coordinates population management and conservation efforts across AZA-accredited institutions.",
+              "type": "Place to go"
+            },
+            {
+              "label": "Wildlife Conservation Society \u2014 Amur Tiger Program",
+              "url": "https://www.wcs.org/our-work/species/amur-tiger",
+              "description": "Field conservation work in the Russian Far East, including anti-poaching efforts and habitat protection.",
+              "type": "Place to go"
+            },
+            {
+              "label": "Panthera \u2014 Tigers Forever",
+              "url": "https://www.panthera.org/cat/tiger",
+              "description": "Science-based tiger conservation across range countries, with specific Amur tiger work in Russia.",
+              "type": "Place to go"
+            },
+            {
+              "label": "AZA Animal Care Manuals",
+              "url": "https://www.aza.org/animal-care-manuals",
+              "description": "Husbandry guidelines developed by SSP working groups. The felid manual covers tiger care standards.",
+              "type": "Place to go"
+            },
+            {
+              "label": "ZIMS \u2014 Species360",
+              "url": "https://www.species360.org",
+              "description": "The zoological information management system used for population records and studbook data.",
+              "type": "Place to go"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

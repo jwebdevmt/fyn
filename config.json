@@ -1,44 +1,36 @@
 {
   "site": {
-    "title": "Amur Tiger SSP",
-    "description": "A simple informational door to Amur Tiger SSP resources."
+    "title": "Test",
+    "description": "Test",
+    "theme": "light"
   },
-
   "pages": [
     {
       "slug": "index",
       "title": "Home",
-      "intro": "This is a simple entry point for people looking for Amur Tiger SSP information.",
+      "intro": "Here's the intro",
       "body": [
-        "This site exists to make real work easier to find.",
-        "It does not track, store, or analyze visitors."
+        "Here's the description"
       ]
     },
-
-    {
-      "slug": "about",
-      "title": "About",
-      "intro": "What this site is.",
-      "body": [
-        "This is a static informational site.",
-        "It is not a platform, network, or community system."
-      ]
-    },
-
     {
       "slug": "links",
-      "title": "Links",
-      "intro": "External resources.",
-      "links": [
+      "title": "Where People Should Go",
+      "intro": "Creator-defined places and resources.",
+      "body": [
+        "These places are chosen by the site creator. FYN does not maintain a directory or infer relationships between communities."
+      ],
+      "link_groups": [
         {
-          "label": "Minnesota Zoo Tiger SSP",
-          "url": "https://support.mnzoo.org/tigercampaign/tiger-ssp/",
-          "description": "Tiger SSP information"
-        },
-        {
-          "label": "AZA SSP Programs",
-          "url": "https://www.aza.org/species-survival-plan-programs",
-          "description": "AZA program overview"
+          "title": "Places to go next",
+          "links": [
+            {
+              "label": "Discord",
+              "url": "https://www.discord.com/",
+              "description": "To talk",
+              "type": "Place to go"
+            }
+          ]
         }
       ]
     }

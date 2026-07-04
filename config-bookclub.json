@@ -1,0 +1,50 @@
+{
+  "site": {
+    "title": "Billings After Dark Book Club",
+    "description": "A small group of readers in Billings, MT who meet monthly and take books seriously.",
+    "theme": "light"
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "title": "Home",
+      "intro": "A door for people who already know us, or who might belong here.",
+      "body": [
+        "We meet the second Tuesday of every month. We read one book at a time, we actually finish them, and we argue about them in good faith. We are not a social club that happens to have books. The books are the point. If you found this page, someone probably sent you here. That means they think you might belong. We tend to agree with that kind of recommendation."
+      ]
+    },
+    {
+      "slug": "links",
+      "title": "Where People Should Go",
+      "intro": "Creator-defined places and resources.",
+      "body": [
+        "These places are chosen by the site creator. FYN does not maintain a directory or infer relationships between communities."
+      ],
+      "link_groups": [
+        {
+          "title": "Places to go next",
+          "links": [
+            {
+              "label": "Our Goodreads shelf",
+              "url": "https://www.goodreads.com",
+              "description": "Every book we have read together, going back to the beginning. If you want to know what we are like, start here.",
+              "type": "Place to go"
+            },
+            {
+              "label": "Billings Public Library",
+              "url": "https://www.billingslibrary.org",
+              "description": "Where we get most of our books. Library cards are free and the hold system is genuinely good.",
+              "type": "Place to go"
+            },
+            {
+              "label": "The Bookstore at the Corner",
+              "url": "https://www.indiebound.org",
+              "description": "Our preferred source when we buy. Independent bookstores matter.",
+              "type": "Place to go"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
