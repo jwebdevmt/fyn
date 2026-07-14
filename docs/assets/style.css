@@ -23,6 +23,13 @@ header {
     margin-bottom: 2rem;
     padding-bottom: 1.5rem;
 }
+.site-logo {
+    display: block;
+    max-height: 64px;
+    max-width: 200px;
+    margin-bottom: 0.75rem;
+    width: auto;
+}
 header h1 { color: var(--accent); margin-bottom: 0.25rem; }
 .site-description { color: var(--muted); margin-top: 0; }
 nav { margin-top: 1.25rem; }
